@@ -1,4 +1,4 @@
-# Linköping Clojure User Group - Code Examples
+# LinkÃ¶ping Clojure User Group - Code Examples
 
 This repo contains the following projects:
 
